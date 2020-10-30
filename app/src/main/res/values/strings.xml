@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MapsActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="normal_map">NORMAL</string>
+    <string name="hybrid_map">HIBRIDO</string>
+    <string name="satellite_map">SATELITAL</string>
+    <string name="terrain_map">TERRENO</string>
+
+    <string name="More">Más</string>
+    <string name="calcular">Calcular distancia</string>
+
+</resources>
